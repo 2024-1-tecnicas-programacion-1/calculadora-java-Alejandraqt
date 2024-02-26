@@ -55,7 +55,6 @@ public class Calculadora {
         int numero2 = lector.nextInt();
         
         // Lectura de la operación a realizar
-        // TODO: DEBES ADICIONAR EL SÍMBOLO DE ^ Y % PARA CALCULAR LA POTENCIA Y EL MÓDULO
         System.out.println("Ingrese la operación (+, -, *, /, ^, %, r)");
         char operacion = lector.next().charAt(0);
         
